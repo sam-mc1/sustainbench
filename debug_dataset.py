@@ -7,3 +7,4 @@ if __name__ == "__main__":
     trainset = dataset.get_subset('train')
     valset = dataset.get_subset('val')
     testset = dataset.get_subset('test')
+    
